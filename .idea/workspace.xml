@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0a357da-1d8e-49f8-9359-5816085cfc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/airesume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/welcome/logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/welcome/logo-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/welcome/welcome.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-bad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-good.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-auth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-main.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf.worker.min.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kaiser-U20"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kazuto-hue/ai-resume.git",
+    "accountId": "589220b2-a5d0-4d23-b1d7-37007cfb6d1b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36HQwZ9A2nO0NGsnphOa4TZsR19" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\projects\\airesume\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\airesume\public\images" />
+      <recent name="D:\projects\airesume\public" />
+      <recent name="D:\projects\airesume\public\icons" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0a357da-1d8e-49f8-9359-5816085cfc28" name="Changes" comment="" />
+      <created>1764661255272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764661255272</updated>
+      <workItem from="1764661256347" duration="4622000" />
+      <workItem from="1764734725494" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
