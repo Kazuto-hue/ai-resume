@@ -1,10 +1,10 @@
-import React, {useEffect} from 'react'
 import {usePuterStore} from "~/lib/puter";
+import {useEffect} from "react";
 import {useLocation, useNavigate} from "react-router";
 
-export const meta:() => any = () => ([
-    {title: 'Resumate| Auth'},
-    {name: 'description', content: 'Log into your account.'},
+export const meta = () => ([
+    { title: 'Resumate | Auth' },
+    { name: 'description', content: 'Log into your account' },
 ])
 
 const Auth = () => {
@@ -33,11 +33,11 @@ const Auth = () => {
                         ) : (
                             <>
                                 {auth.isAuthenticated ? (
-                                    <button className="auth-button" onClick={() => auth.signOut()}>
+                                    <button className="auth-button" onClick={auth.signOut}>
                                         <p>Log Out</p>
                                     </button>
                                 ) : (
-                                    <button className="auth-button" onClick={() => auth.signIn()}>
+                                    <button className="auth-button" onClick={auth.signIn}>
                                         <p>Log In</p>
                                     </button>
                                 )}
@@ -49,4 +49,5 @@ const Auth = () => {
         </main>
     )
 }
+
 export default Auth
